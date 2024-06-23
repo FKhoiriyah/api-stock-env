@@ -1,4 +1,4 @@
-# My Node.js App
+# Backend API - Stock App
 
 ## Getting Started
 
